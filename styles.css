@@ -1,0 +1,44 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: hsl(0, 15%, 55%);
+}
+
+h1,
+h2,
+h3 {
+  color: hsl(0, 61%, 21%);
+}
+
+p {
+  width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+ul, ol {
+  display: inline-block;
+  text-align: left;
+  margin: 0 auto;
+}
+
+img {
+  border: 6px solid hsl(0, 61%, 21%);
+  border-radius: 6px;
+}
+
+a {
+  font-weight: bold;
+  color: hsl(0, 61%, 21%);
+}
+
+.recipes {
+  width: 100px;
+  padding: 8px;
+  margin: 8px;
+  border: 6px solid hsl(0, 61%, 21%);
+  border-radius: 6px;
+  display: inline-block;
+  margin-left: auto;
+  margin-right: auto;
+}
